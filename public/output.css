@@ -952,6 +952,14 @@ video {
   font-size: 20px;
 }
 
+.text-\[48px\] {
+  font-size: 48px;
+}
+
+.text-\[54px\] {
+  font-size: 54px;
+}
+
 .font-\[40px\] {
   font-weight: 40px;
 }
